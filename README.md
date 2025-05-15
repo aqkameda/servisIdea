@@ -15,4 +15,5 @@
   All dependencies and scripts you can see in package.json.
 
 
-##  MIT License
+## License
+MIT 
